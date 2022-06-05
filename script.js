@@ -1,4 +1,5 @@
 $(document).ready(function() {
+	//hehehehe
 	var domHeight = document.body.scrollHeight
 	var hasMsg = false // to check whether there is some value in the input message field, so that once there is a value in the input message field, we need not check again on "keyup". We only need to check once there is no value in the input message field.
 
