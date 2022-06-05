@@ -234,4 +234,7 @@ $(document).ready(function() {
 			$('.peopleTyping').text('Type Message:  ' + cnt + ' people are typing...')
 		}
 	})
+	function abcd(){
+		console.log("hellooooo");
+	}
 })
